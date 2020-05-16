@@ -1,0 +1,89 @@
+body{
+  background-color: grey;
+  color: white;
+  text-align: center;
+}
+h2{
+  font-size: 1.3em;
+  text-align: center;
+  line-height: 1em;
+  color: orange;
+}
+h3{
+  font-size: 1.1em;
+  line-height: .7em;
+  color: cyan;
+  padding-top:.3em;
+  padding-bottom: 0;
+  margin:0;
+}
+h4{
+  font-size: 1em;
+  line-height: .5em;
+  padding: 1em;
+  padding-bottom: .5em;
+  margin: 0;
+  font-weight: normal;
+  color: yellow;
+}
+#history p{
+  text-align: justify;
+}
+#left{
+  width: 18%;
+  float: left;
+  padding:1%;
+  margin: 1%;
+  margin-top: 0;
+  border: 1px solid brown;
+  border-radius: 10%;
+}
+#centre{
+  width: 35%;
+  float: left;
+  padding: 1%;
+  margin: 0;
+  margin-bottom: 1%;
+  border: 1px solid brown;
+  border-radius: 7%;
+}
+.right{
+  width: 35%;
+  float: right;
+  border: 1px solid brown;
+  border-radius: 7%;
+  padding: 1.5%;
+  margin: 1%;
+  margin-top: 0;
+}
+#history{
+  clear: both;
+  border: 1px solid brown;
+  border-radius: 7%;
+  padding: 1.5%;
+  margin: 1%;
+}
+#general_info .info{
+line-height: 2em;
+text-align: center;
+border-bottom: .5px solid brown;
+padding-bottom: 1em;
+margin-bottom: 1em;
+}
+.info2{
+  line-height: 1.5em;
+  text-align: left;
+}
+
+.pot1{
+  text-align: left;
+}
+.pot1 h4{
+  padding-top: .4em;
+  padding-bottom: 0;
+}
+.pot1 p{
+  font-style: italic;
+  margin-top: .5em;
+  margin-bottom: .7em;
+}
